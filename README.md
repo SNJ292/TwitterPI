@@ -1,6 +1,6 @@
 # Project 3 - *TwitterPI*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**TwitterPI** is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
