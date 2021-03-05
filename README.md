@@ -2,7 +2,7 @@
 
 **TwitterPI** is a basic twitter app to read your tweets.
 
-Time spent: **4.5** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/3e8XLLxaqu.gif' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/3e8XLLxaqu.gif' width=250> <img src='http://g.recordit.co/doQdGUTZwK.gif' width=250><br>
 
